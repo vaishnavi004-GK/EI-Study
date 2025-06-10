@@ -65,7 +65,7 @@ class ForecastDisplay implements Observer {
 }
 
 
-public class ObserverPatternDemo {
+public class  {
     public static void main(String[] args) {
         WeatherData weatherData = new WeatherData();
 
